@@ -1,7 +1,7 @@
 import telepot
 from chatbot import Chatbot
 
-telegram = telepot.Bot("1300392007:AAExXB-slfjDjv74j6pxed38SLRU_zEvv2g")
+telegram = telepot.Bot("")
 bot = Chatbot("RedX")
 
 def recebendoMsg(msg):
